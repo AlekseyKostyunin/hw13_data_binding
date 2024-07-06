@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw13_data_binding</string>
+    <string name="text_search">Введите текст для поиска</string>
+    <string name="text_result_search">Здесь будет отображаться результат запроса</string>
+    <string name="search">Искать</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
